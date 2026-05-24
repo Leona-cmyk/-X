@@ -1,0 +1,482 @@
+[
+  {
+    "name": "P",
+    "zh_name": "一回路压力",
+    "unit": "bar"
+  },
+  {
+    "name": "TAVG",
+    "zh_name": "一回路平均温度",
+    "unit": "°C"
+  },
+  {
+    "name": "THA",
+    "zh_name": "A 环路热管段温度",
+    "unit": "°C"
+  },
+  {
+    "name": "THB",
+    "zh_name": "B 环路热管段温度",
+    "unit": "°C"
+  },
+  {
+    "name": "TCA",
+    "zh_name": "A 环路冷管段温度",
+    "unit": "°C"
+  },
+  {
+    "name": "TCB",
+    "zh_name": "B 环路冷管段温度",
+    "unit": "°C"
+  },
+  {
+    "name": "WRCA",
+    "zh_name": "A 环路冷却剂流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "WRCB",
+    "zh_name": "B 环路冷却剂流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "PSGA",
+    "zh_name": "A 蒸汽发生器压力",
+    "unit": "bar"
+  },
+  {
+    "name": "PSGB",
+    "zh_name": "B 蒸汽发生器压力",
+    "unit": "bar"
+  },
+  {
+    "name": "WFWA",
+    "zh_name": "A 蒸汽发生器给水流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "WFWB",
+    "zh_name": "B 蒸汽发生器给水流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "WSTA",
+    "zh_name": "A 蒸汽发生器蒸汽流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "WSTB",
+    "zh_name": "B 蒸汽发生器蒸汽流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "VOL",
+    "zh_name": "VOL 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "LVPZ",
+    "zh_name": "稳压器水位",
+    "unit": "%"
+  },
+  {
+    "name": "VOID",
+    "zh_name": "VOID 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WLR",
+    "zh_name": "WLR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WUP",
+    "zh_name": "WUP 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "HUP",
+    "zh_name": "HUP 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "HLW",
+    "zh_name": "HLW 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WHPI",
+    "zh_name": "WHPI 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WECS",
+    "zh_name": "WECS 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "QMWT",
+    "zh_name": "堆芯热功率",
+    "unit": "MW"
+  },
+  {
+    "name": "LSGA",
+    "zh_name": "LSGA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "LSGB",
+    "zh_name": "LSGB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "QMGA",
+    "zh_name": "QMGA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "QMGB",
+    "zh_name": "QMGB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "NSGA",
+    "zh_name": "NSGA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "NSGB",
+    "zh_name": "NSGB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TBLD",
+    "zh_name": "TBLD 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WTRA",
+    "zh_name": "A 蒸汽发生器传热管泄漏流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "WTRB",
+    "zh_name": "B 蒸汽发生器传热管泄漏流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "TSAT",
+    "zh_name": "TSAT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "QRHR",
+    "zh_name": "QRHR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "LVCR",
+    "zh_name": "LVCR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "SCMA",
+    "zh_name": "SCMA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "SCMB",
+    "zh_name": "SCMB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "FRCL",
+    "zh_name": "FRCL 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "PRB",
+    "zh_name": "PRB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "PRBA",
+    "zh_name": "PRBA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TRB",
+    "zh_name": "TRB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "LWRB",
+    "zh_name": "LWRB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "DNBR",
+    "zh_name": "偏离泡核沸腾比",
+    "unit": "-"
+  },
+  {
+    "name": "QFCL",
+    "zh_name": "QFCL 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WBK",
+    "zh_name": "WBK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WSPY",
+    "zh_name": "WSPY 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WCSP",
+    "zh_name": "WCSP 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "HTR",
+    "zh_name": "HTR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "MH2",
+    "zh_name": "MH2 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "CNH2",
+    "zh_name": "CNH2 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RHBR",
+    "zh_name": "RHBR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RHMT",
+    "zh_name": "RHMT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RHFL",
+    "zh_name": "RHFL 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RHRD",
+    "zh_name": "RHRD 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RH",
+    "zh_name": "RH 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "PWNT",
+    "zh_name": "中子通量功率",
+    "unit": "%"
+  },
+  {
+    "name": "PWR",
+    "zh_name": "堆芯热功率比例",
+    "unit": "%"
+  },
+  {
+    "name": "TFSB",
+    "zh_name": "TFSB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TFPK",
+    "zh_name": "TFPK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TF",
+    "zh_name": "TF 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TPCT",
+    "zh_name": "TPCT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WCFT",
+    "zh_name": "WCFT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WLPI",
+    "zh_name": "WLPI 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WCHG",
+    "zh_name": "WCHG 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RM1",
+    "zh_name": "RM1 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RM2",
+    "zh_name": "蒸汽管线辐射监测",
+    "unit": "CPM"
+  },
+  {
+    "name": "RM3",
+    "zh_name": "冷凝器废气辐射监测",
+    "unit": "CPM"
+  },
+  {
+    "name": "RM4",
+    "zh_name": "RM4 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RC87",
+    "zh_name": "RC87 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RC131",
+    "zh_name": "RC131 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "STRB",
+    "zh_name": "STRB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "STSG",
+    "zh_name": "STSG 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "STTB",
+    "zh_name": "STTB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RBLK",
+    "zh_name": "RBLK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "SGLK",
+    "zh_name": "SGLK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "DTHY",
+    "zh_name": "DTHY 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "DWB",
+    "zh_name": "DWB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WRLA",
+    "zh_name": "WRLA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WRLB",
+    "zh_name": "WRLB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WLD",
+    "zh_name": "下泄流量",
+    "unit": "t/hr"
+  },
+  {
+    "name": "MBK",
+    "zh_name": "MBK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "EBK",
+    "zh_name": "EBK 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TKLV",
+    "zh_name": "TKLV 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "FRZR",
+    "zh_name": "FRZR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TDBR",
+    "zh_name": "TDBR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "MDBR",
+    "zh_name": "MDBR 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "MCRT",
+    "zh_name": "MCRT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "MGAS",
+    "zh_name": "MGAS 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TCRT",
+    "zh_name": "TCRT 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "TSLP",
+    "zh_name": "TSLP 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "PPM",
+    "zh_name": "PPM 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RRCA",
+    "zh_name": "RRCA 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RRCB",
+    "zh_name": "RRCB 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "RRCO",
+    "zh_name": "RRCO 参数",
+    "unit": "待补充"
+  },
+  {
+    "name": "WFLB",
+    "zh_name": "给水管破口流量",
+    "unit": "kg/s"
+  }
+]

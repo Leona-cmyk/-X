@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.9900990099009901,
+  "macro_f1": 0.9900588440504405,
+  "weighted_f1": 0.99015727133707,
+  "train_samples": 908,
+  "test_samples": 303,
+  "classes": [
+    "FLB",
+    "LLB",
+    "LOCA",
+    "LOCAC",
+    "LR",
+    "MD",
+    "RI",
+    "RW",
+    "SGATR",
+    "SGBTR",
+    "SLBIC",
+    "SLBOC"
+  ],
+  "severity_mae": 2.642195230054084,
+  "severity_r2": 0.9792084730636843
+}

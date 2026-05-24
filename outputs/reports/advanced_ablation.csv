@@ -1,0 +1,8 @@
+﻿model_name,accuracy,macro_f1,top2_accuracy,severity_mae,params_count,inference_ms,notes
+Baseline RandomForest,0.9900990099009901,0.9900588440504405,,2.642195230054084,,,Existing statistical-feature baseline
+CNN-only,,,,,,,Not trained in this run; reserved for dedicated ablation
+LSTM/GRU,,,,,,,Not trained in this run; reserved for dedicated ablation
+Transformer-only,,,,,,,Not trained in this run; reserved for dedicated ablation
+CNN + Transformer,,,,,,,Predecessor architecture; see earlier run if needed
+CNN + Transformer + Multi-task,,,,,,,Not trained separately in this run
+NucleoGuard-MTSFormer + Early Consistency + Robust Augmentation,0.8503401360544217,0.8591957094882888,0.9897959183673469,6.486006919218569,406863.0,,Current trained advanced model

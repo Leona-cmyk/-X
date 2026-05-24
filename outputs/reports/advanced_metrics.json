@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.8503401360544217,
+  "macro_f1": 0.8591957094882888,
+  "severity_mae": 6.486006919218569,
+  "top2_accuracy": 0.9897959183673469,
+  "average_confidence": 0.8552808009442829,
+  "params_count": 406863,
+  "train_windows": 931,
+  "val_windows": 221,
+  "test_windows": 294,
+  "classes": [
+    "FLB",
+    "LLB",
+    "LOCA",
+    "LOCAC",
+    "LR",
+    "MD",
+    "RI",
+    "RW",
+    "SGATR",
+    "SGBTR",
+    "SLBIC",
+    "SLBOC"
+  ],
+  "window_size": 256,
+  "early_ratio": 1.0
+}
